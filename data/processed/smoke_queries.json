@@ -1,0 +1,105 @@
+[
+  {
+    "query_id": 1,
+    "orig_id": 1,
+    "text": "what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft .",
+    "tokens": [
+      "similar",
+      "law",
+      "must",
+      "obey",
+      "construct",
+      "aeroelast",
+      "model",
+      "heat",
+      "high",
+      "speed",
+      "aircraft"
+    ],
+    "num_tokens": 11
+  },
+  {
+    "query_id": 2,
+    "orig_id": 2,
+    "text": "what are the structural and aeroelastic problems associated with flight of high speed aircraft .",
+    "tokens": [
+      "structur",
+      "aeroelast",
+      "problem",
+      "associ",
+      "flight",
+      "high",
+      "speed",
+      "aircraft"
+    ],
+    "num_tokens": 8
+  },
+  {
+    "query_id": 3,
+    "orig_id": 4,
+    "text": "what problems of heat conduction in composite slabs have been solved so far .",
+    "tokens": [
+      "problem",
+      "heat",
+      "conduct",
+      "composit",
+      "slab",
+      "solv",
+      "far"
+    ],
+    "num_tokens": 7
+  },
+  {
+    "query_id": 50,
+    "orig_id": 85,
+    "text": "what are the effects of small amounts of gas rarefaction on the characteristics of the boundary layers on slender bodies of revolution .",
+    "tokens": [
+      "effect",
+      "small",
+      "amount",
+      "ga",
+      "rarefact",
+      "characterist",
+      "boundari",
+      "layer",
+      "slender",
+      "bodi",
+      "revolut"
+    ],
+    "num_tokens": 11
+  },
+  {
+    "query_id": 100,
+    "orig_id": 149,
+    "text": "what are the effects of initial imperfections on the elastic buckling of cylindrical shells under axial compression .",
+    "tokens": [
+      "effect",
+      "initi",
+      "imperfect",
+      "elast",
+      "buckl",
+      "cylindr",
+      "shell",
+      "axial",
+      "compress"
+    ],
+    "num_tokens": 9
+  },
+  {
+    "query_id": 225,
+    "orig_id": 365,
+    "text": "what design factors can be used to control lift-drag ratios at mach numbers above 5 .",
+    "tokens": [
+      "design",
+      "factor",
+      "use",
+      "control",
+      "lift",
+      "drag",
+      "ratio",
+      "mach",
+      "number"
+    ],
+    "num_tokens": 9
+  }
+]
